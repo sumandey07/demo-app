@@ -31,6 +31,7 @@
         android:layout_width="match_parent"
         android:layout_height="350dp"
         android:layout_below="@id/upload_img"
-        tools:srcCompat="@tools:sample/avatars" />
+        tools:srcCompat="@tools:sample/avatars"
+        android:contentDescription="@string/todo" />
 
 </RelativeLayout>
