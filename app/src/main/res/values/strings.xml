@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Celebrare_test</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="choose_from_device">Choose from Device</string>
+</resources>
